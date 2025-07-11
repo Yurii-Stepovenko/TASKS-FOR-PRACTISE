@@ -4,5 +4,5 @@
 Req:
 pip install librosa soundfile
 pip install torch torchvision torchaudio
-pip install matplotlib seaborn(використоував тільки для того, що б подивитись як виглядає спектрограма)
+pip install matplotlib seaborn(планував робити графіки, але не зробив, проте все ж вирішив залишити)
 pip install numpy
